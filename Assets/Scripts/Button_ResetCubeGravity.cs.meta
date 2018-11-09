@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20a02417b86adda4eb6a44f28aefae3d
+timeCreated: 1497740312
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pushSound: {fileID: 8300000, guid: ee2038838db9170459cbfc861eb7e1fd, type: 3}
+  - cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
